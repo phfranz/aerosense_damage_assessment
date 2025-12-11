@@ -7,9 +7,9 @@ The raw aerodynamic pressure measurements can be found in the repository: https:
 The CNNs provided in this repository use aerodynamic pressure coefficient data, not the raw sensor recordings. To convert the raw measurements into aerodynamic pressure coefficient data proceed as follows:
 
 
-1.) Download the file "AeroSense-WT-EPFL.zip" from https://doi.org/10.34808/gq12-wx33, which contains the aerodynamic pressure measurements and the file Labbook_Aerosense_Dynamic_Experiments.csv. \
+1.) Download the file "AeroSense-WT-EPFL.zip" from https://doi.org/10.34808/gq12-wx33, which contains the aerodynamic pressure measurements and the file "Labbook_Aerosense_Dynamic_Experiments.csv". \
 2.) Copy the "aerosense_data" folder that contains the raw measurement data and the labbook file into the folder "process_raw_data".\
-3.) Then, use main_postprocess.m to convert the raw data in pressure coefficient data.
+3.) Then, use "main_postprocess.m" to convert the raw data in pressure coefficient data.
 
 
 
