@@ -1,5 +1,8 @@
 '''
     Training routine of neural network
+    Training of the neural network inspired by the code of Hassan Ismail Fawaz (https://github.com/hfawaz/dl-4-tsc/tree/master) for the paper: 
+    Ismail Fawaz, H., Forestier, G., Weber, J., Idoumghar, L., Muller, P.-A. "Deep learning for time series classification: a review." Data Min Knowl Disc 33, 917–963 (2019). https://doi.org/10.1007/s10618-019-00619-1
+    
     author: @phfranz
 '''
 import numpy as np
