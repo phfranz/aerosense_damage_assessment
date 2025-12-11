@@ -4,7 +4,7 @@ Code and classification models for the preprint "On the Potential of Aerodynamic
 
 
 The raw aerodynamic pressure measurements can be found in the repository: https://doi.org/10.34808/gq12-wx33. 
-The CNNs provided in this repository use aerodynamic pressure coefficient data, not the raw sensor recordings. To convert the raw measurements into aerodynamic pressure coefficient data proceed as follows:
+The CNNs provided in this repository use aerodynamic pressure coefficient data, not the raw sensor recordings. To convert the raw measurements into aerodynamic pressure coefficient data, proceed as follows:
 
 
 1.) Download the file "AeroSense-WT-EPFL.zip" from https://doi.org/10.34808/gq12-wx33, which contains the aerodynamic pressure measurements and the file "Labbook_Aerosense_Dynamic_Experiments.csv". \
