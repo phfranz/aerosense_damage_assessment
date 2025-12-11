@@ -1,4 +1,6 @@
 '''Define architecture of CNN
+   This implementation is inspired by the code of Hassan Ismail Fawaz (https://github.com/hfawaz/dl-4-tsc/tree/master) for the paper: 
+   Ismail Fawaz, H., Forestier, G., Weber, J., Idoumghar, L., Muller, P.-A. "Deep learning for time series classification: a review." Data Min Knowl Disc 33, 917–963 (2019). https://doi.org/10.1007/s10618-019-00619-1
 
    author: @phfranz
 '''
@@ -7,8 +9,8 @@ from tensorflow import keras
 
 def create_conv_net(input_shape, num_classes):
     '''set architecture of CNN
-    input_shape: first dimension = length of sample
-                 second dimension = number of channels '''
+       input_shape: first dimension = length of sample
+                    second dimension = number of channels '''
 
     return keras.Sequential(
       [ 
