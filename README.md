@@ -1,4 +1,4 @@
-# Aerosense: Structural Damage Detection based on Aerodynamic Pressure Measurements
+# On the Potential of Aerodynamic Pressure Measurements for Structural Damage Detection
 
 Code and classification models for the preprint "On the Potential of Aerodynamic Pressure Measurements for Structural Damage Detection", written by Philip Franz, Imad Abdallah, Gregory Duthé, Julien Deparday, Ali Jafarabadi, Xudong Jian, Max von Danwitz, Alexander Popp, Sarah Barber and Eleni Chatzi. The preprint is available under  https://doi.org/10.5194/wes-2025-26. 
 
